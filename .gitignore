@@ -1,0 +1,8 @@
+# ignore folder .git
+.git/
+
+# ignore folder node_modules
+node_modules/
+
+# ignore folder app/libs
+app/libs/
